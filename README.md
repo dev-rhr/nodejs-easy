@@ -1,2 +1,2 @@
-# nodejs-easy-upload
-Lib to makes upload through nodejs easier
+# nodejs-easy
+Makes life easier with NodeJS
