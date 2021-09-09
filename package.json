@@ -1,0 +1,21 @@
+{
+  "name": "@dev-rhr/nodejs-easy",
+  "version": "1.0.0",
+  "description": "Makes life easier with NodeJS",
+  "main": "easy.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Rega",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dev-rhr/nodejs-easy.git"
+  },
+  "devDependencies": {
+    "mocha": "^9.0.3"
+  },
+  "dependencies": {
+    "form-data": "^4.0.0"
+  }
+}
